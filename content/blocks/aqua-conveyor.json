@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
 	"name": "Aqua Conveyor",
-	"description": "This conveyor is the fastest, and it has a lot of health.",
+	"description": "This conveyor is very fast, but is very fragile.",
 	"health": "10",
 	"requirements": [
 		{"item": "copper", "amount": 1}
